@@ -1,0 +1,5 @@
+A- es de color azul
+
+B- es de color amarillo
+C- es amarillo y azul
+D- quedo el favicon de ALFA
