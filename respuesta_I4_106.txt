@@ -3,3 +3,8 @@ A- es de color azul
 B- es de color amarillo
 C- es amarillo y azul
 D- quedo el favicon de ALFA
+E- lo tuviron BETA Y GAMMA
+F- lo del podian hacer el push por que habia un push actualizado a su version
+G- git push origin TESTING  con esa se soluciono
+H- No van a llegar al mismo tiempo. Siempre hay una forma de bloquear una estructura de datos y el primero que bloquea es el que hace lo que le da la gana. El segundo tiene que lidiar con las consecuencias.
+I- el merge de main a desarrollo
